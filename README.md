@@ -1,1 +1,1 @@
-This kart showcases some projects based on machine learning, deep learning, etc.. 
+This repository showcases various projects leveraging machine learning and deep learning.
